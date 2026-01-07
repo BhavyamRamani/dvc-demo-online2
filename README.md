@@ -65,7 +65,3 @@ Purpose:
   Remote data ingestion
   Basic data preprocessing
   Dataset versioning using DVC
----
-
-Author
-Bhavyam Ramani
