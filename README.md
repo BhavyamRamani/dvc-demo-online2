@@ -13,12 +13,15 @@ dvc-demo-online2-main/
 ├── .dvc/
 │   ├── config
 │   └── .gitignore
+
 │
 ├── .dvcignore
+
 │
 ├── data/
 │   ├── customer.csv.dvc
 │   └── .gitignore
+
 │
 ├── src/
 │   └── data_ingestion.py
