@@ -9,6 +9,7 @@ The goal of this project is to showcase how datasets can be versioned and manage
 
 ## Project Structure
 
+```
 dvc-demo-online2-main/
 │
 ├── .dvc/
@@ -23,6 +24,10 @@ dvc-demo-online2-main/
 │
 ├── src/
 │   └── data_ingestion.py
+│
+├── .gitignore
+└── README.md
+```
 
 
 ---
@@ -59,6 +64,7 @@ The resulting dataset is tracked using DVC.
 ### Run Data Ingestion
 ```bash
 python src/data_ingestion.py
+```
 
 ---
 Purpose:
