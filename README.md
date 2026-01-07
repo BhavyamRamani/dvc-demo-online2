@@ -8,20 +8,18 @@ The goal of this project is to showcase how datasets can be versioned and manage
 ---
 
 ## Project Structure
+
 dvc-demo-online2-main/
 │
 ├── .dvc/
 │   ├── config
 │   └── .gitignore
-
 │
 ├── .dvcignore
-
 │
 ├── data/
 │   ├── customer.csv.dvc
 │   └── .gitignore
-
 │
 ├── src/
 │   └── data_ingestion.py
